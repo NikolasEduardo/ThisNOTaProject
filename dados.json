@@ -2,7 +2,7 @@
     "Produto1": {
         "Nome": "Pelúcia Foxy - Five Night at Freddy's",
         "Descrição": "Diretamente dos jogos Five Nights at Freddy's que divertem a criançada sai a versão fofa Foxy!! Agora não só no jogo seu pequeno/pequena vai poder estar com seu Animatronico",
-        "PreçoUSS": 14.51, 
+        "PreçoUSS": 14.51,
         "imagem1": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto1-1.webp",
         "imagem2": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto1-2.webp",
         "imagem3": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto1-3.webp",
@@ -43,5 +43,14 @@
         "imagem2": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto5-2.webp",
         "imagem3": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto5-3.webp",
         "imagem4": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto5-4.webp"
+    },
+    "Produto6": {
+        "Nome": "Pelúcia Tails - Sonic",
+        "Descrição": "25cm Pelucia Tails Sonic The Hedgehog Original",
+        "PreçoUSS": 37.77,
+        "imagem1": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto6-1.webp",
+        "imagem2": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto6-2.webp",
+        "imagem3": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto6-3.webp",
+        "imagem4": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto6-4.webp"
     }
 }

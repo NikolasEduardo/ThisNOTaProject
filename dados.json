@@ -58,35 +58,5 @@
         "imagem2": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto6-2.webp",
         "imagem3": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto6-3.webp",
         "imagem4": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto6-4.webp"
-    },
-    "Produto7": {
-        "id": 7,
-        "Nome": "Pecilimes de mentos - Genshpact",
-        "Descrição": "Bonecos de inquedos Travesseiro Desenhosresente Infantil",
-        "PreçoUSS": 4444444.23,
-        "imagem1": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto4-1.webp",
-        "imagem2": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto4-2.webp",
-        "imagem3": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto4-3.webp",
-        "imagem4": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto4-4.webp"
-    },
-    "Produto8": {
-        "id": 8,
-        "Nome": "Pelia iko F - atch 2",
-        "Descrição": "26cm kiriko raposa brinqelúcia macio recheado jogo overwatchboneca animal raposa brinquedo de pelúcia para crianças fãs coleção",
-        "PreçoUSS": 4444.17,
-        "imagem1": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto5-1.webp",
-        "imagem2": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto5-2.webp",
-        "imagem3": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto5-3.webp",
-        "imagem4": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto5-4.webp"
-    },
-    "Produto9": {
-        "id": 9,
-        "Nome": "Pelúcls - Soc",
-        "Descrição": "25cm Pia Tails Sonic The Hedgehoiginal",
-        "PreçoUSS": 3777.77,
-        "imagem1": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto6-1.webp",
-        "imagem2": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto6-2.webp",
-        "imagem3": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto6-3.webp",
-        "imagem4": "https://nikolaseduardo.github.io/ThisNOTaProject/imagens/produto6-4.webp"
     }
 }
